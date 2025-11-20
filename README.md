@@ -1,5 +1,5 @@
+# Re Kaofela POS System
 
-**Re Kaofela POS System**
 A web-based Point of Sale (POS) system designed specifically for small-scale retail businesses to streamline sales processing, inventory management, and business operations.
 
 📋 **Project Overview**
